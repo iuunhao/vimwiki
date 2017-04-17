@@ -1,9 +1,9 @@
-= [[f/docker|docker]] =
-= [[f/html|html]] =
-= [[f/css|css]] =
-= [[f/javascript|javascript]] =
-= [[f/mac|mac]] =
-= [[f/git|git]] =
-= [[f/win|win]] =
-= [[f/vim|vim]] =
+[[f/docker|docker]]
+[[f/html|html]]
+[[f/css|css]]
+[[f/javascript|javascript]]
+[[f/mac|mac]]
+[[f/git|git]]
+[[f/win|win]]
+[[f/vim|vim]]
 

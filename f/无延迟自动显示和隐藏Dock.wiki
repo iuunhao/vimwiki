@@ -1,0 +1,7 @@
+
+`defaults write com.apple.Dock autohide-delay -float 0 && killall Dock`
+
+*恢复*
+
+`defaults delete com.apple.Dock autohide-delay && killall Dock`
+

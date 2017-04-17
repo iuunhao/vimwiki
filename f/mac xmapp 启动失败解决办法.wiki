@@ -1,0 +1,7 @@
+`sudo killall httpd`
+
+`sudo apachectl stop`
+
+`sudo killall mysqld`
+
+`sudo /Applications/XAMPP/xamppfiles/bin/mysql.server start`
