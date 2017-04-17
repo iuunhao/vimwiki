@@ -1,0 +1,7 @@
+*显示*
+
+`defaults write com.apple.finder AppleShowAllFiles -bool true`
+
+*隐藏*
+
+`defaults write com.apple.finder AppleShowAllFileslt -bool false`

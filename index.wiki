@@ -1,28 +1,9 @@
-= VimWiki =
-== Front End Development ==
-	* [[[of/HTML|HTML]]]]
-	* [[f/CSS|CSS]]
-	* [[f/Javascript|Javascript]]
-	* [[f/Nodejs|Nodejs]]
-== Script development ==
-	* [[f/Bash|Bash]]
-	* [[f/Python|Python]]
-	* [[f/VimScript|VimScript]]
-	* [[f/DosScript|DosScript]]
-== The operating system ==
-	* [[f/MacOS|MacOS]]
-	* [[f/Windwos|Windwos]]
-== The editor ==
-	* [[f/Sublime|Sublime]]
-	* [[f/Atom|Atom]]
-	* [[f/MacVim|MacVim]]
-	* [[f/Emacs|Emacs]]
-	* [[f/Brackets|Brackets]]
-	* [[f/Visual Studio Code|Visual Studio Code]]
-== The browser ==
-	* [[f/Chrome|Chrome]] 
-	* [[f/Firefox|Firefox]]
-	* [[f/IE|IE]]
-== Other ==
+= [[f/docker|docker]] =
+= [[f/html|html]] =
+= [[f/css|css]] =
+= [[f/javascript|javascript]] =
+= [[f/mac|mac]] =
+= [[f/git|git]] =
+= [[f/win|win]] =
+= [[f/vim|vim]] =
 
-%title [[VimWiki|VimWiki]]

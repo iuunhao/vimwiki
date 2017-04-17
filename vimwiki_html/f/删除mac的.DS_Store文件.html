@@ -2,7 +2,7 @@
 <html>
 <head>
     <link rel="Stylesheet" type="text/css" href="../style.css">
-    <title>CSS</title>
+    <title>删除mac的.DS_Store文件</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
@@ -21,6 +21,13 @@
 </head>
 <body>
 
+<p>
+mac下的.DS_Store文件为临时文件，其实删除不掉的，不过可以通过以下命令临时删除，虽然意义并不大
+</p>
+
+<p>
+<code>defaults write com.apple.desktopservices DSDontWriteNetworkStores true</code>
+</p>
 
 </body>
 </html>
