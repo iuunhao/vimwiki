@@ -1,8 +1,0 @@
-= Mac键盘重复按键出现特殊字符？ =
-
-=== 启用 ===
-	`defaults write -g ApplePressAndHoldEnabled -bool FALSE`
-	
-=== 关闭 ===
-	`defaults delete -g ApplePressAndHoldEnabled`
-
