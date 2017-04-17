@@ -1,1 +1,1 @@
-[预览地址](http://htmlpreview.github.io/?https://github.com/iuunhao/vimwiki/blob/master/vimwiki_html/index.html)
+[预览地址](https://iuunhao.github.io/vimwiki/vimwiki_html/)
