@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="Stylesheet" type="text/css" href="../../../../style.css">
+<title>无延迟自动显示和隐藏Dock</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+
+
+<p>
+<code>defaults write com.apple.Dock autohide-delay -float 0 &amp;&amp; killall Dock</code>
+</p>
+
+<p>
+<span id="-恢复"></span><strong id="恢复">恢复</strong>
+</p>
+
+<p>
+<code>defaults delete com.apple.Dock autohide-delay &amp;&amp; killall Dock</code>
+</p>
+
+</body>
+</html>

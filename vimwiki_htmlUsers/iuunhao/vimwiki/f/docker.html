@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="Stylesheet" type="text/css" href="../../../../style.css">
+<title>docker</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+
+<ol>
+<li>
+<span id="-编译"></span><strong id="编译">编译</strong>
+
+<ul>
+<li>
+<code>docker build -t iuunhao/centos:7.1 .</code>
+
+</ul>
+<li>
+<span id="-运行"></span><strong id="运行">运行</strong>
+
+<ul>
+<li>
+<code>docker run -d -p 2222:22 --name iuunhao_base csphere/centos:7.1</code>
+
+<li>
+<code>docker ps</code>
+
+<li>
+<code>docker ps -a</code>
+
+</ul>
+<li>
+<span id="-进入"></span><strong id="进入">进入</strong>
+
+<ul>
+<li>
+<code>docker exec -it dbserver /bin/bash</code>
+
+</ul>
+<li>
+<span id="-删除"></span><strong id="删除">删除</strong>
+
+<ul>
+<li>
+<code>docker rm</code>
+
+<li>
+必须是停止运行的
+
+</ul>
+<li>
+<span id="-传参"></span><strong id="传参">传参</strong>
+
+<ul>
+<li>
+<code>docker run --name myjenkins -p 8080:8080 -p 50001:50001 --env JENKINS_SLAVE_AGENT_PORT=50001 jenkins</code>
+
+</ul>
+</ol>
+
+</body>
+</html>

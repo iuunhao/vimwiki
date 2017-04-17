@@ -1,9 +1,9 @@
-[[f/Docker|Docker]]
+[[f/docker|docker]]
 [[f/html|html]]
 [[f/css|css]]
-[[f/Javascript|Javascript]]
-[[f/Mac|Mac]]
-[[f/Git|Git]]
+[[f/javascript|javascript]]
+[[f/mac|mac]]
+[[f/git|git]]
 [[f/win|win]]
 [[f/vim|vim]]
 
